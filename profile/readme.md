@@ -10,7 +10,7 @@
 
 ### Links
 
-[Invite our Bot](https://blahajs.xyz/bot) | [Discord](https://discord.gg/y6anCC35UG)
+[Website](https://blahajs.xyz) | [Invite our Bot](https://blahajs.xyz/bot) | [Join our Discord Server](https://discord.gg/y6anCC35UG)
 
 
 ### Our Team.
