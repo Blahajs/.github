@@ -17,4 +17,4 @@
 
 Founder - [Skyler](https://github.com/skyldev) :wales: <br />
 Lead Dev - [Jahz](https://github.com/JazzzyDEV) :england: <br />
-API Upkeeper - [Luna](https://shi.gg/] :netherlands:
+API Upkeeper - [Luna](https://shi.gg/) :netherlands:
